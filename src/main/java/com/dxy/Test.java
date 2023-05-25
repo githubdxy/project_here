@@ -20,5 +20,6 @@ public class Test
     {
         System.out.println("上传到github");
         System.out.println("?????");
+        System.out.println("修改git日志用户名，邮箱地址 的测试");
     }
 }
